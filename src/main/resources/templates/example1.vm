@@ -1,0 +1,5 @@
+Your Details...
+
+Name : ${name}
+
+Email : ${email}

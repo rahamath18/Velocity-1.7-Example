@@ -1,0 +1,7 @@
+User Details
+
+First Name	Last Name	Email
+
+#foreach($user in $userList)
+$user.firstName	$user.lastName	$user.email
+#end
